@@ -1,0 +1,144 @@
+StoreID,Sq_Ft,AvgMonthSales,Name,City,State,Region,Group
+10018,1183,18000,Bellflower & Spring,Long Beach,CA,West,control
+10068,1198,16000,"Foothill & Boston, La Crescenta",La Cresenta,CA,West,control
+10118,1204,13000,Magic Mountain & Tourney,Valencia,CA,West,control
+10168,1195,19000,Alameda & Shelton,Burbank,CA,West,control
+10218,1193,15000,Victoria Gardens,Rancho Cucamonga,CA,West,control
+10268,1191,25000,"Azusa & Amar, West Covina",West Covina,CA,West,control
+10318,1147,16000,"Chase & Avocado, El Cajon",El Cajon,CA,West,control
+10368,1159,19000,Albertsons -- San Marcos #6708,San Marcos,CA,West,control
+10418,1146,19000,Fashion Valley Mall -Lvl 2 Food Crt,San Diego,CA,West,control
+10468,1151,21000,Mira Mesa Mall,San Diego,CA,West,control
+10518,1147,11000,"Imperial & Main, El Centro",El Centro,CA,West,control
+10568,1192,21000,Vons - Redlands #1734,Redlands,CA,West,control
+10618,1187,15000,Moreno Beach & Hwy 60,Moreno Valley,CA,West,control
+11268,1328,12000,Safeway - Concord #1192,Concord,CA,West,control
+11318,1319,24000,Grove & Center,Castro Valley,CA,West,control
+11368,1319,22000,Marina & I-880,San Leandro,CA,West,control
+11418,1323,15000,Oakland City Center,Oakland,CA,West,control
+11468,1325,19000,Donahue & Hwy 101,Sausalito,CA,West,control
+11518,1306,35000,Homestead & Lawrence - Santa Clara,Santa Clara,CA,West,control
+11568,1305,21000,Lincoln & Minnesota Willow Glen,San Jose,CA,West,control
+11618,1307,16000,Bellevue & Shaffer - Atwater,Atwater,CA,West,control
+11668,1345,10000,Fulton & Guerneville,Santa Rosa,CA,West,control
+11718,1353,21000,Birdcage Walk - Citrus Heights,Citrus Heights,CA,West,control
+11768,1350,16000,International & Zinfandel - RC,Rancho Cordova,CA,West,control
+11818,1353,15000,Target  Woodland T-2408,Woodland,CA,West,control
+11868,1352,12000,American River College,Sacramento,CA,West,control
+12019,1588,11000,Safeway-Lake Grove #1047,Lake Oswego,OR,West,control
+12069,1593,8000,Orenco Station,Hillsboro,OR,West,control
+12119,1594,19000,Piedmont,Portland,OR,West,control
+12169,1593,10000,Safeway - Portland #1612,Portland,OR,West,control
+12219,1541,12000,13th & Alder,Eugene,OR,West,control
+12269,1586,16000,Safeway-La Grande #1827,La Grande,OR,West,control
+12286,1666,11000,3 Bellevue Cntr,Bellevue,WA,West,control
+12486,1663,22000,Westwood Village,Seattle,WA,West,control
+12536,1669,12000,Target Northgate T-1284,Seattle,WA,West,control
+12586,1678,10000,Safeway-Everett #1484,Everett,WA,West,control
+12686,1654,13000,N. 30th & McCarver/Old Town,Tacoma,WA,West,control
+12736,1644,18000,Safeway - Aberdeen #1546,Aberdeen,WA,West,control
+12786,1659,16000,Valley Mall Pkwy & 5th St NE,East Wenatchee,WA,West,control
+12836,1667,16000,Sprague & Pine,Spokane,WA,West,control
+1508,1457,12000,3219 8th Street SW - Altoona,Altoona,IA,Central,control
+1542,1506,12000,Target Brookfield T-2780.,Brookfield,WI,Central,control
+1580,1568,14000,Target Cottage Grove T-662,Cottage Grove,MN,Central,control
+1630,1582,17000,Round Lake Blvd and Northdale,Anoka,MN,Central,control
+1662,1471,11000,Arlington Heights & Golf Road,Arlington Heights,IL,Central,control
+1664,1475,11000,Barrington,Barrington,IL,Central,control
+1675,1472,15000,Northwest Hwy & Elmhurst Rd,Mount Prospect,IL,Central,control
+1696,1471,10000,Higgins & Meacham,Schaumburg,IL,Central,control
+1700,1465,15000,Roosevelt & Summit,Oakbrook Terrace,IL,Central,control
+1712,1456,19000,159th & LaGrange,Orland Park,IL,Central,control
+1762,1469,8000,"ORD OHare Terminal 1, Baggage Claim",Chicago,IL,Central,control
+1807,1353,14000,Target Chesterfield T-1353,Chesterfield,MO,Central,control
+1857,1296,15000,Ramey-Price Cutter-Nixa #55,Nixa,MO,Central,control
+1863,1363,11000,Dillons Store-Lawrence #98,Lawrence,KS,Central,control
+1964,1158,11000,Angel & Lucas,Lucas,TX,Central,control
+2014,1152,16000,Teavana - Dallas Galleria,Dallas,TX,Central,control
+2114,1049,20000,1960 & Champion Forest,Houston,TX,Central,control
+2214,1033,15000,1604 & Braun,San Antonio,TX,Central,control
+2264,1231,8000,Target Amarillo - T-221,Amarillo,TX,Central,control
+2283,1393,18000,64th & Ward,Arvada,CO,West,control
+2288,1387,14000,S. Parker Rd & E. Quincy Ave,Aurora,CO,West,control
+2293,1394,11000,King Sooper Arvada # 55,Westminster,CO,West,control
+2301,1387,11000,"Hampden & Santa Fe, Sheridan",Denver,CO,West,control
+2322,1390,14000,King Soopers - Denver #1,Denver,CO,West,control
+2333,1395,8000,"104th & Bannock, Northglenn",Northglenn,CO,West,control
+2341,1400,11000,1352 College Ave - Boulder,Boulder,CO,West,control
+2383,1366,10000,King Soopers #77 Colorado Springs,Colorado Springs,CO,West,control
+2409,1501,14000,Pocatello - Yellowstone and Alameda,Pocatello,ID,West,control
+2468,1169,13000,Target Phoenix SW T-2149,Phoenix,AZ,West,control
+2518,1168,13000,Arizona Mills,Tempe,AZ,West,control
+2568,1220,13000,Safeway-Sedona #1207,Sedona,AZ,West,control
+2572,1230,12000,Market Place at Journal Center,Albuquerque,NM,West,control
+2652,1189,19000,Central & Slauson,Los Angeles,CA,West,control
+2702,1190,17000,Olympic & Main,Santa Monica,CA,West,control
+2752,1198,5000,Reseda & Nordhoff,Northridge,CA,West,control
+2802,1142,17000,Bonita Road & Plaza Bonita,Chula Vista,CA,West,control
+2852,1154,11000,Carmel Mountain,San Diego,CA,West,control
+2902,1170,17000,Outlets at San Clemente,San Clemente,CA,West,control
+2952,1246,17000,Von's - Lake Isabella #2413,Lake Isabella,CA,West,control
+3002,1322,17000,564 Market Street,San Francisco,CA,West,control
+3052,1323,21000,315 1/2 20th St.,Oakland,CA,West,control
+3102,1330,10000,I-5 & Benjamin Holt,Stockton,CA,West,control
+3152,1370,9000,Hwy 70 & Hwy 20 - Marysville,Marysville,CA,West,control
+3185,1583,13000,Berg Pkwy & Hwy 99 - Canby,Canby,OR,West,control
+3235,1541,14000,W. 11th & Acorn Park - Eugene,Eugene,OR,West,control
+3302,1669,19000,Northgate Mall,Seattle,WA,West,control
+3352,1646,18000,Downtown Olympia,Olympia,WA,West,control
+6992,1455,15000,Tenth & Locust,Des Moines,IA,Central,control
+7037,1503,16000,Southridge Mall - Lower Level,Greendale,WI,Central,control
+7087,1507,13000,State & Lake,Madison,WI,Central,control
+7162,1584,12000,Super Target Otsego ST-2456,Otsego,MN,Central,control
+7212,1580,17000,Super Target Blaine ST-1832,Blaine,MN,Central,control
+7284,1470,15000,Biesterfield & Wellington,Elk Grove Village,IL,Central,control
+7334,1473,10000,Willow & Waukegan - Northbrook,Northbrook,IL,Central,control
+7384,1466,10000,North & 25th - Melrose Park,Melrose Park,IL,Central,control
+7434,1455,17000,Lockport - 159th & Farrell,Lockport,IL,Central,control
+7484,1463,15000,Super Target Warrenville ST-1903,Warrenville,IL,Central,control
+7534,1465,12000,Target Chicago T-2781,Chicago,IL,Central,control
+7584,1463,13000,Target Chicago T-1879,Chicago,IL,Central,control
+7634,1479,9000,State & Trainer,Rockford,IL,Central,control
+7720,1355,9000,SR-K & Weldon Spring,O'Fallon,MO,Central,control
+7770,1354,12000,Hwy 50 & Thompson,Sedalia,MO,Central,control
+7811,1363,10000,89th and Metcalf,Overland Park,KS,Central,control
+8112,1155,9000,Renner & Northstar,Richardson,TX,Central,control
+8162,1149,18000,Target Dallas/Medallion T-55,Dallas,TX,Central,control
+8212,1143,8000,Super Target Arlington ST-1339,Arlington,TX,Central,control
+8262,1150,11000,I-35 & Western Center,Fort Worth,TX,Central,control
+8312,1040,19000,University & Kelvin,Houston,TX,Central,control
+8362,1034,12000,Bay Area & Seawolf,Houston,TX,Central,control
+8562,1036,9000,1604 & Blanco Road,San Antonio,TX,Central,control
+8717,1397,13000,"King Soopers-Broomfield, CO #86",Broomfield,CO,West,control
+8767,1385,20000,King Soopers-Littleton 122,Littleton,CO,West,control
+8817,1390,14000,6th & Lincoln,Denver,CO,West,control
+8867,1395,12000,102nd & Grant-Thornton,Denver,CO,West,control
+8917,1405,13000,Hover & Trade Center Dr,Longmont,CO,West,control
+8967,1359,17000,31st & Colorado-CO Springs,Colorado Springs,CO,West,control
+9017,1368,18000,Safeway-Grand Junction #1533,Grand Junction,CO,West,control
+9081,1527,13000,Albertsons-Boise #161,Boise,ID,West,control
+9188,1176,10000,Paradise Valley Mall,Phoenix,AZ,West,control
+9238,1170,12000,"Stapley & McKellips, Mesa",Mesa,AZ,West,control
+9288,1173,8000,Camelback Inn-Scottsdale,Scottsdale,AZ,West,control
+9338,1167,1000,Safeway-Gilbert #1534,Gilbert,AZ,West,control
+9388,1177,13000,"Grand & Reems, Surprise",Surprise,AZ,West,control
+9438,1130,14000,Sunrise & Swan - Tucson,Tucson,AZ,West,control
+9488,1220,14000,Bashas - Sedona #28,Sedona,AZ,West,control
+9524,1234,11000,"NM 528 and Rockaway, Rio Rancho",Rio Rancho,NM,West,control
+9589,1263,13000,Albertsons - Las Vegas #6029,Las Vegas,NV,West,control
+9639,1265,11000,"Sahara & Nellis, Las Vegas",Las Vegas,NV,West,control
+9768,1193,17000,Hollywood & Highland,Hollywood,CA,West,control
+9818,1191,15000,"3rd & Gage, Los Angeles",Los Angeles,CA,West,control
+9868,1185,12000,"Hermosa & 13th, Hermosa Beach",Hermosa Beach,CA,West,control
+9918,1190,16000,Main & Hill,Santa Monica,CA,West,control
+9968,1182,16000,Beach & Chapman,Stanton,CA,West,control
+1664,1475,11000,Barrington,Barrington,IL,Central,treatment
+1675,1472,15000,Northwest Hwy & Elmhurst Rd,Mount Prospect,IL,Central,treatment
+1696,1471,10000,Higgins & Meacham,Schaumburg,IL,Central,treatment
+1700,1465,15000,Roosevelt & Summit,Oakbrook Terrace,IL,Central,treatment
+1712,1456,19000,159th & LaGrange,Orland Park,IL,Central,treatment
+2288,1387,14000,S. Parker Rd & E. Quincy Ave,Aurora,CO,West,treatment
+2293,1394,11000,King Sooper Arvada # 55,Westminster,CO,West,treatment
+2301,1387,11000,"Hampden & Santa Fe, Sheridan",Denver,CO,West,treatment
+2322,1390,14000,King Soopers - Denver #1,Denver,CO,West,treatment
+2341,1400,11000,1352 College Ave - Boulder,Boulder,CO,West,treatment
