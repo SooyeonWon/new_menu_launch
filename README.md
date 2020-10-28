@@ -1,4 +1,4 @@
-# Matched_Pairs_Design
+# Project: A/B Test a New Menu Launch
 A/B Testing with Matched Pairs Design
 
 #### by Sooyeon Won
